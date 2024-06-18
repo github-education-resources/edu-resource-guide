@@ -35,7 +35,7 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 
 
 ## Video Tutorials
-*This is not a comprehensive list, it's a good place to get started though!* 😊
+*This is not a comprehensive list, but it's a good place to get started!* 😊
 - [GitHub Classroom](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) - Getting Started Guide
 - [GitHub Education YouTube Channel](https://www.youtube.com/@githubeducation4427/videos) - all videos
 - [What is Git?](https://www.youtube.com/@githubeducation4427/videos) - A brief introduction to Git for beginners by GitHub
@@ -70,18 +70,17 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 - [View Deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
 
 ## Student Developer Pack
-About the Student Developer Pack
-How to apply
-What if my application isn’t approved?
-Student Developer Pack Application FAQs & Common Rejection Reasons
-What is the GitHub Community Exchange
-Video: GitHub Education Overview for Students
-Student Developer Pack - Common Rejection Reasons
-Video Series: 
-Getting started in open source
-Not-ternships
-Managing your profile ReadMe, documentation
-How to Create a GitHub Profile READ ME, non-GitHub affiliated tutorial
+- [About the Student Developer Pack](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-education-for-students)
+- [How to apply](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
+- [What if my application isn’t approved?](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/why-wasnt-my-application-to-github-education-for-students-approved)
+- [Student Developer Pack Application FAQs & Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
+- [What is the GitHub Community Exchange](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-community-exchange)
+- [GitHub Education Overview for Students](https://youtu.be/HIVFdN9VGgw?feature=shared)
+- [Student Developer Pack - Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
+- [Getting started in open source](https://www.twitch.tv/videos/2138897966?collection=0UAVKpQ2jBbFzg)
+- [Not-ternships](https://www.twitch.tv/videos/2138897966)
+- [Managing your profile ReadMe](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [How to Create a GitHub Profile READ ME](https://youtu.be/ktN5tDfQ_g8?feature=shared)
 
 ## Campus Experts
 About the Campus Experts program
