@@ -10,7 +10,7 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 - [GitHub Classroom](#-github-classroom)
 - [Student Developer Pack](#-student-developer-pack)
 - [Campus Experts](#-campus-experts)
-- [Teacher Benefits](#-teacher-benefits)
+- [For Educators](#-for-educators)
 - [GitHub Codespaces](#-github-codespaces)
 - [GitHub Copilo](#-github-copilot)
 - [GitHub Actions](#-github-actions)
@@ -26,8 +26,6 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 - [Quickstart Guide for Educators](https://docs.github.com/en/education/quickstart) - jump in and start learning/teaching
 
 
-
-
 ## 📚 GitHub Education Programs
 | 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits
 | ------------- | ------------- | ------------- |
@@ -40,6 +38,7 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 - [GitHub Education YouTube Channel](https://www.youtube.com/@githubeducation4427/videos) - all videos
 - [What is Git?](https://www.youtube.com/@githubeducation4427/videos) - A brief introduction to Git for beginners by GitHub
  
+
 ## GitHub Classroom
 - [Teach with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
 - [Getting Started](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom)
@@ -83,33 +82,33 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 - [How to Create a GitHub Profile READ ME](https://youtu.be/ktN5tDfQ_g8?feature=shared)
 
 ## Campus Experts
-About the Campus Experts program
-Become or find a [Campus Expert](https://education.github.com/experts) 
+- [About the Campus Experts program](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/about-github-campus-experts)
+- Become or find a [Campus Expert](https://education.github.com/experts) 
 
-## Teacher Benefits
-About GitHub For Teachers
-GitHub Certification Registration
-| [Learn how to become certified](https://education.github.com/experts)  | 
-| [GitHub Foundations Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) |
-| [GitHub Advanced Security Certification](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey) |
-| [GitHub Administration Certification](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03) |
-| [GitHub Actions Certification](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5) |
-Certifications FAQ
+## For Educators
+- [About GitHub For Teachers](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
+- [GitHub Certification Registration](https://examregistration.github.com/overview)
+- [Learn how to become certified](https://education.github.com/experts)  
+- [GitHub Foundations Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+- [GitHub Advanced Security Certification](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey)
+- [GitHub Administration Certification](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03)
+- [GitHub Actions Certification](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
+- [Certifications FAQ](https://examregistration.github.com/faq)
 
 ## GitHub Codespaces
-Codespaces product page
-Codespaces documentation
-Codespaces YouTube
+- [Codespaces](https://github.com/features/codespaces) product page
+- [Codespaces](https://docs.github.com/en/codespaces/overview) documentation
+- [Codespaces YouTube](https://www.youtube.com/@GitHub/search?query=codespaces)
 
 ## GitHub Copilot
-Copilot product page
-Copilot documentation
-Copilot YouTube
+- [Copilot](https://github.com/features/copilot) product page
+- [Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot) documentation
+- [Copilot YouTube](https://www.youtube.com/@GitHub/search?query=copilot)
 
 ## GitHub Actions
-Actions product page
-Actions documentation
-Actions YouTube
+- [Actions](https://github.com/features/actions) product page
+- [Actions](https://docs.github.com/en/actions) documentation
+- [Actions YouTube](https://www.youtube.com/@GitHub/search?query=actions)
 
 ## Other GitHub Education guides
 Get started with GitHub
