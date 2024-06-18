@@ -168,7 +168,7 @@ Incorporate GitHub into your education, and use the same tools as the profession
 
 
 ## GitHub Campus Program
-- [GitHub Campus Program] (https://github.com/edu/schools)
+- [GitHub Campus Program](https://github.com/edu/schools)
 - [About GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)
 - [About GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.9/admin/overview/about-github-enterprise-server)
 - [How to add Enterprise Owners](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-users-in-your-enterprise/inviting-people-to-manage-your-enterprise)
