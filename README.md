@@ -4,22 +4,22 @@
 The GitHub Educaiton Resources Guide provides links to support materials for GitHub and GitHub Education products and services. We invite you to browse through! We will endeavor to keep these links up-to-date, but don't hesitate to let us know if you find something newer or better, we're always adding to it! See below for [Contribution guidelines for this project](docs/CONTRIBUTING.md). 
 
 ### Table of Contents
-- Getting Started
-- GitHub Education Programs
-- Video Tutorials
-- GitHub Classroom
-- Student Developer Pack
-- Campus Experts
-- Teacher Benefits
-- GitHub Codespaces
-- GitHub Copilot
-- GitHub Actions
-- Other GitHub Education guides
-- GitHub Campus Program
-- GitHub Education FAQs
-- Where to go for help
-- Contribute
-- Code of Conduct
+- [Getting Started](#-getting-started)
+- [GitHub Education Programs](#-github-education-programs)
+- [Video Tutorials](#-video-tutorials)
+- [GitHub Classroom](#-github-classroom)
+- [Student Developer Pack](#-student-developer-pack)
+- [Campus Experts](#-campus-experts)
+- [Teacher Benefits](#-teacher-benefits)
+- [GitHub Codespaces](#-github-codespaces)
+- [GitHub Copilo](#-github-copilot)
+- [GitHub Actions](#-github-actions)
+- [Other GitHub Education guides](#-other-github-education-guides)
+- [GitHub Campus Program](#-github-campus-program)
+- [GitHub Education FAQs](#-github-education-faqs)
+- [Where to go for help](#-where-to-go-for-help)
+- [Contribute](#-contribute)
+- [Code of Conduct](#-code-of-conduct)
 
 ## 🏁 Getting started
 - [GitHub Education Guide](https://docs.github.com/en/education/guides) - teaching GitHub & software development
