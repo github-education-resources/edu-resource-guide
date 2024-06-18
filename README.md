@@ -10,8 +10,8 @@ The GitHub Educaiton Resources Guide is as a hub of links to support materials f
 ## 📚 GitHub Education Programs
 | 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits
 | ------------- | ------------- | ------------- |
-| [Apply for Teacher Benefits](https://education.github.com/discount_requests/application | Apply for the Student Developer Pack  | Apply to be a Partner School |
-| [Learn how to become certified]([https://education.github.com/experts) | Become or find a [Campus Expert](https://education.github.com/experts)   | [Application] (https://education.github.com/partner_school_applications/apply) |
+| [Apply for Teacher Benefits](https://education.github.com/discount_requests/application | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School(https://education.github.com/partner_school_applications/apply)|
+| [Learn how to become certified]([https://education.github.com/experts) | Become or find a [Campus Expert](https://education.github.com/experts)   |                                                                            |
 | [GitHub Foundations Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) |
 | [GitHub Advanced Security Certification](https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey) |
 | [GitHub Administration Certification](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03) |
