@@ -174,6 +174,7 @@ Incorporate GitHub into your education, and use the same tools as the profession
 - [How to add Organization Admins](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
 - [Creating your organization](https://docs.github.com/en/enterprise-server@3.11/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
 - [Campus Program FAQ]()
+- [GitHub Education for Schools Partner Program Use Agreement](https://github.com/edu/schools/terms)
 <br>
 
 ## 🆘 Where to go for help
@@ -186,3 +187,4 @@ Incorporate GitHub into your education, and use the same tools as the profession
 Contributions are always welcome! Please read the [Contribution guidelines for this project](docs/CONTRIBUTING.md).
 
 ## Code of Conduct
+- [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)
