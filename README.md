@@ -6,20 +6,21 @@ The GitHub Educaiton Resources Guide provides links to support materials for Git
 ### Table of Contents
 - [Getting Started](#-getting-started)
 - [GitHub Education Programs](#-github-education-programs)
+- [Run a software development course with GitHub](#-run-a-software-development-course-with-github)
 - [Video Tutorials](#-video-tutorials)
-- [GitHub Classroom](#-github-classroom)
+- [All Things GitHub Classroom](#-all-things-github-classroom)
 - [Student Developer Pack](#-student-developer-pack)
 - [Campus Experts](#-campus-experts)
-- [For Educators](#-for-educators)
+- [GitHub Certifications](#-github-certifications)
 - [GitHub Codespaces](#-github-codespaces)
 - [GitHub Copilo](#-github-copilot)
 - [GitHub Actions](#-github-actions)
-- [Run a software development course with GitHub](#-run-a-software-development-course-with-github)
 - [GitHub Campus Program](#-github-campus-program)
 - [GitHub Education FAQs](#-github-education-faqs)
 - [Where to go for help](#-where-to-go-for-help)
 - [Contribute](#-contribute)
 - [Code of Conduct](#-code-of-conduct)
+
 
 ## 🏁 Getting started
 Teachers, students, and researchers can use tools from GitHub to learn, enrich software development curriculum and develop real-world collaboration skills.
@@ -31,22 +32,40 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 - [About GitHub Education for students](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-education-for-students)
 - [Apply to GitHub Education as a teacher](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/apply-to-github-education-as-a-teacher)
 - [Apply to GitHub Education as a student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
+<br>
 
 
 ## 📚 GitHub Education Programs
-| 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits
+| 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits |
 | ------------- | ------------- | ------------- |
-| [Apply for Teacher Benefits](https://education.github.com/discount_requests/application) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/partner_school_applications/apply) |
+| [Apply for Teacher Benefits](https://education.github.com/discount_requests/application) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/partner_school_applications/apply) ||
+<br>
 
 
-## Video Tutorials
-*This is not a comprehensive list, but it's a good place to get started!* 😊
-- [GitHub Classroom](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) - Getting Started Guide
+## Run a software development course with GitHub
+Administer a classroom, assign and review work from your students, and teach the new generation of software developers with GitHub Classroom.
+- [Run a software development course with GitHub](https://docs.github.com/en/education/guides#run-a-software-development-course-with-github)
+- [About GitHub Education for teachers](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
+- [Manage classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms)
+- [About assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/about-assignments)
+- [Use the Git and GitHub starter assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-the-git-and-github-starter-assignment)
+- [Create an individual assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
+- [Create a group assignmen](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
+- [Create an assignment from a template repository](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
+- [Monitor students' progress with the assignment overview page](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/monitor-students-progress-with-the-assignment-overview-page)
+- [Leave feedback with pull requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
+- [Use autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
+<br>
+
+
+## 🔦 Spotlighted Video Tutorials
 - [GitHub Education YouTube Channel](https://www.youtube.com/@githubeducation4427/videos) - all videos
+- [GitHub Classroom](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) - Getting Started Guide
 - [What is Git?](https://www.youtube.com/@githubeducation4427/videos) - A brief introduction to Git for beginners by GitHub
- 
+<br> 
 
-## GitHub Classroom
+
+## All Things GitHub Classroom
 - [Teach with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
 - [Getting Started](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom)
 - [GitHub Classroom Glossary](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/glossary)
@@ -74,6 +93,8 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 - [Learn with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom)
 - [View Autograding Results](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results)
 - [View Deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
+<br>
+
 
 ## Student Developer Pack
 - [About the Student Developer Pack](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-education-for-students)
@@ -87,13 +108,16 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 - [Not-ternships](https://www.twitch.tv/videos/2138897966)
 - [Managing your profile ReadMe](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - [How to Create a GitHub Profile READ ME](https://youtu.be/ktN5tDfQ_g8?feature=shared)
+<br>
+
 
 ## Campus Experts
 - [About the Campus Experts program](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/about-github-campus-experts)
 - Become or find a [Campus Expert](https://education.github.com/experts) 
+<br>
 
-## For Educators
-- [About GitHub For Teachers](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
+
+## GitHub Certifications
 - [GitHub Certification Registration](https://examregistration.github.com/overview)
 - [Learn how to become certified](https://education.github.com/experts)  
 - [GitHub Foundations Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
@@ -101,68 +125,63 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 - [GitHub Administration Certification](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03)
 - [GitHub Actions Certification](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
 - [Certifications FAQ](https://examregistration.github.com/faq)
+<br>
+
 
 ## GitHub Codespaces
 - [Codespaces](https://github.com/features/codespaces) product page
 - [Codespaces](https://docs.github.com/en/codespaces/overview) documentation
 - [Codespaces YouTube](https://www.youtube.com/@GitHub/search?query=codespaces)
+<br>
+
 
 ## GitHub Copilot
 - [Copilot](https://github.com/features/copilot) product page
 - [Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot) documentation
 - [Copilot YouTube](https://www.youtube.com/@GitHub/search?query=copilot)
+<br>
+
 
 ## GitHub Actions
 - [Actions](https://github.com/features/actions) product page
 - [Actions](https://docs.github.com/en/actions) documentation
 - [Actions YouTube](https://www.youtube.com/@GitHub/search?query=actions)
+<br>
 
 
-
-## Run a software development course with GitHub
-Administer a classroom, assign and review work from your students, and teach the new generation of software developers with GitHub Classroom.
-- [Run a software development course with GitHub](https://docs.github.com/en/education/guides#run-a-software-development-course-with-github)
-- [About GitHub Education for teachers](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
-- [Manage classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms)
-- [About assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/about-assignments)
-- [Use the Git and GitHub starter assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-the-git-and-github-starter-assignment)
-- [Create an individual assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
-- [Create a group assignmen](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
-- [Create an assignment from a template repository](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
-- [Monitor students' progress with the assignment overview page](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/monitor-students-progress-with-the-assignment-overview-page)
-- [Leave feedback with pull requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
-- [Use autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
-
-Learn to develop software
+## Learn to develop software
 Incorporate GitHub into your education, and use the same tools as the professionals.
-Git and GitHub learning resources
-GitHub Education for students
-Try GitHub Desktop
-Try GitHub CLI
-Contribute to the community
-Participate in the community, get training from GitHub, and learn or teach new skills.
-Education Community
-About GitHub Education for students
-About GitHub Campus Experts
-Applying to be a GitHub Campus Expert
-Contribute with GitHub Community Exchange
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
+- [GitHub Education for students]()
+- [Try GitHub Desktop](https://docs.github.com/en/desktop)
+- [Try GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli)
+- [Contribute to the open source](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
+<br>
 
+
+## Participate in the GitHub Education community
+- [Education Community](https://github.com/orgs/community/discussions/categories/github-education)
+- [GitHub Education Discord](https://discord.gg/HHRrzDBH)
+- [GitHub Education TV](https://www.twitch.tv/githubeducation)
+- [Contribute with GitHub Community Exchange](https://docs.github.com/en/education/contribute-with-github-community-exchange)
+<br>
 
 
 ## GitHub Campus Program
-- GitHub Enterprise Cloud
-- GitHub Enterprise Server
-- How to add/remove/update Enterprise Owners
-- How to add/remove/update Organization Admins
-- Creating your organization
-- Campus Program FAQ
-
+- [GitHub Campus Program] (https://github.com/edu/schools)
+- [About GitHub Enterprise Cloud](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud)
+- [About GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.9/admin/overview/about-github-enterprise-server)
+- [How to add Enterprise Owners](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-users-in-your-enterprise/inviting-people-to-manage-your-enterprise)
+- [How to add Organization Admins](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
+- [Creating your organization](https://docs.github.com/en/enterprise-server@3.11/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
+- [Campus Program FAQ]()
+<br>
 
 ## 🆘 Where to go for help
 - [Join the Education Community Exchange](https://github.com/orgs/community/discussions/categories/github-education) - look for discussions related to your question or start a discussion
 - [Education Support](https://support.github.com/request?tags=education-support) - For General & Educators/Students - submit a ticket
 - [Campus Program Support](https://support.github.com/contact/campus-program) - For Schools - submit a ticket
-
+<br>
 
 ## Contribute
 Contributions are always welcome! Please read the [Contribution guidelines for this project](docs/CONTRIBUTING.md).
