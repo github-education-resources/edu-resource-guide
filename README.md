@@ -1,7 +1,7 @@
 # GitHub Education Resources Guide
 
 ## 👀 How to Use this Guide
-The GitHub Educaiton Resources Guide provides links to support materials for GitHub and GitHub Education products and services. We invite you to browse through! We will endeavor to keep these links up-to-date, but don't hesitate to let us know if you find something newer or better, we're always adding to it! See below for [Contribution guidelines for this project](docs/CONTRIBUTING.md). 
+The GitHub Educaiton Resources Guide provides links to support materials for GitHub and GitHub Education products and services. We invite you to browse through!
 
 ### Table of Contents
 - [Getting Started](#-getting-started)
@@ -184,7 +184,7 @@ Incorporate GitHub into your education, and use the same tools as the profession
 <br>
 
 ## Contribute
-Contributions are always welcome! Please read the [Contribution guidelines for this project](docs/CONTRIBUTING.md).
+We endeavor to keep these links up-to-date, but don't hesitate to let us know if you find something great we should add, or notice something that needs updating. Before you contribute by opening a pull request, please read this project's [contribution guidelines]().
 
 ## Code of Conduct
 - [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)
