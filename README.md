@@ -185,6 +185,3 @@ Incorporate GitHub into your education, and use the same tools as the profession
 
 ## Contribute
 We endeavor to keep these links up-to-date, but don't hesitate to let us know if you find something great we should add, or notice something that needs updating. Before you contribute by opening a pull request, please read this project's [contribution guidelines]().
-
-## Code of Conduct
-- [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)
