@@ -1,4 +1,4 @@
-# GitHub Education Resources Guide
+# GitHub Education Resource Guide
 
 ## 👀 How to Use this Guide
 The GitHub Educaiton Resources Guide provides links to support materials for GitHub and GitHub Education products and services. We invite you to browse through!
