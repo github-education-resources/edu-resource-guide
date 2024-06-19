@@ -49,7 +49,7 @@ Administer a classroom, assign and review work from your students, and teach the
 - [About assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/about-assignments)
 - [Use the Git and GitHub starter assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-the-git-and-github-starter-assignment)
 - [Create an individual assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
-- [Create a group assignmen](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
+- [Create a group assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
 - [Create an assignment from a template repository](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
 - [Monitor students' progress with the assignment overview page](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/monitor-students-progress-with-the-assignment-overview-page)
 - [Leave feedback with pull requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
