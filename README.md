@@ -95,14 +95,14 @@ Administer a classroom, assign and review work from your students, and teach the
 <br>
 
 
-## Student Developer Pack
+## Student Developer Pack & Learning Resources
 - [About the Student Developer Pack](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-education-for-students)
 - [How to apply](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
 - [What if my application isn’t approved?](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/why-wasnt-my-application-to-github-education-for-students-approved)
-- [Student Developer Pack Application FAQs & Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
+- [Student Developer Pack - Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
+- [Student Developer Pack Partner offer FAQs & full list](https://github.com/education/Student-Developer-Pack-Current-Partners-FAQ/blob/main/README.md)
 - [What is the GitHub Community Exchange](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/about-github-community-exchange)
 - [GitHub Education Overview for Students](https://youtu.be/HIVFdN9VGgw?feature=shared)
-- [Student Developer Pack - Common Rejection Reasons](https://github.com/orgs/community/discussions/111352)
 - [Getting started in open source](https://www.twitch.tv/videos/2138897966?collection=0UAVKpQ2jBbFzg)
 - [Not-ternships](https://www.twitch.tv/videos/2138897966)
 - [Managing your profile ReadMe](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
