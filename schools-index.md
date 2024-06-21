@@ -1,5 +1,4 @@
 # Campus Program Partner Schools Index
-Follow [this link](https://airtable.com/appqqm8k09M0B5WA9/shrfgONPs85SUg23K) to view a sortable list of active partner schools. 
 
 | Institution Name                                                                                     | URL                                                                                 |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
