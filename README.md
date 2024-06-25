@@ -13,7 +13,7 @@ The GitHub Educaiton Resource Guide provides links to support materials for GitH
 - [Campus Experts](#campus-experts)
 - [GitHub Certifications](#github-certifications)
 - [GitHub Codespaces](#github-codespaces)
-- [GitHub Copilo](#github-copilot)
+- [GitHub Copilot](#github-copilot)
 - [GitHub Actions](#github-actions)
 - [GitHub Campus Program](#github-campus-program)
 - [Where to go for help](#-where-to-go-for-help)
