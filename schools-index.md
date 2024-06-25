@@ -1,5 +1,5 @@
 # Campus Program Partner Schools Index
-*Use the `command key + F` on a Mac or `control + F` on Windows to find the school you're looking for.* 
+*To find the school you're looking for, use the `command key + F` on a Mac or `control + F` on Windows.* 
 
 | Institution Name                                                                                     | URL                                                                                 |
 |------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
