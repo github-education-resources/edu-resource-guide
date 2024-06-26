@@ -156,6 +156,7 @@ Incorporate GitHub into your education, and use the same tools as the profession
 - [Try GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli)
 - [Contribute to the open source](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 <br>
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
 ## Participate in the GitHub Education community
