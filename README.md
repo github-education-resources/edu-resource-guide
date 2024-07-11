@@ -4,22 +4,11 @@
 The GitHub Educaiton Resource Guide provides links to support materials for GitHub and GitHub Education products and services. We invite you to browse through!
 
 ### Table of Contents
-- [Getting Started](#-getting-started)
-- [GitHub Education Programs](#-github-education-programs)
-- [Run a software development course with GitHub](#run-a-software-development-course-with-github)
-- [Spotlighted Video Tutorials]([#-spotlighted-video-tutorials)
-- [All Things GitHub Classroom](#all-things-github-classroom)
-- [Student Developer Pack](#student-developer-pack)
-- [Campus Experts](#campus-experts)
-- [GitHub Certifications](#github-certifications)
-- [GitHub Codespaces](#github-codespaces)
-- [GitHub Copilot](#github-copilot)
-- [GitHub Actions](#github-actions)
-- [GitHub Campus Program](#github-campus-program)
-- [Where to go for help](#-where-to-go-for-help)
-- [Contribute](#contribute)
-- [Code of Conduct](#code-of-conduct)
 
+- [Getting Started](https://github.com/github-education-resources/edu-resource-guide/edit/main/README.md#-getting-started)
+- [GitHub Education Programs](https://github.com/github-education-resources/edu-resource-guide/edit/main/README.md#-github-education-programs)
+- [Run a software development course with GitHub](https://github.com/github-education-resources/edu-resource-guide/edit/main/README.md#run-a-software-development-course-with-github)
+- 
 
 ## 🏁 Getting started
 Teachers, students, and researchers can use tools from GitHub to learn, enrich software development curriculum and develop real-world collaboration skills.
