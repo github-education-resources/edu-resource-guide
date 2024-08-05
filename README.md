@@ -158,7 +158,6 @@ Incorporate GitHub into your education, and use the same tools as the profession
 - [How to add Enterprise Owners](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-users-in-your-enterprise/inviting-people-to-manage-your-enterprise)
 - [How to add Organization Admins](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
 - [Creating your organization](https://docs.github.com/en/enterprise-server@3.11/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
-- [Campus Program FAQ]()
 - [GitHub Education for Schools Partner Program Use Agreement](https://github.com/edu/schools/terms)
 - [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [GitHub Security Policies](https://docs.github.com/en/site-policy/security-policies)
