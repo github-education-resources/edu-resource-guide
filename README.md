@@ -27,6 +27,7 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 
 ## Run a software development course with GitHub
 Administer a classroom, assign and review work from your students, and teach the new generation of software developers with GitHub Classroom.
+- [About Teacher Benefits](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
 - [Run a software development course with GitHub](https://docs.github.com/en/education/guides#run-a-software-development-course-with-github)
 - [About GitHub Education for teachers](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/about-github-education-for-teachers)
 - [Manage classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms)
