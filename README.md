@@ -105,12 +105,12 @@ Administer a classroom, assign and review work from your students, and teach the
 
 
 ## Researchers
-- [Learn how to connect your ORCiD to your GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#a[…]e)
-- [Customize your repository with citation files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
-- [Issuing a persistent identifier for your repository with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+- Learn how to [connect your ORCiD to your GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#a[…]e)
+- Make your repository citeable with [citation files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+- Issue a persistent identifier for your [repository with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 - Add your research institution to [The Research Organization Registry (ROR)](https://ror.org/)
-- [Handbook on Ethical Open Science](https://book.the-turing-way.org/index.html)
-- [NASA TOPS training on Open science](https://app.openscience101.org)
+- Read [The Turin Way Handbook](https://book.the-turing-way.org/index.html) to reproducible, ethical and collaborative data science
+- Learn how to build an inclusive culture of open science with [NASA TOPS training on Open science](https://app.openscience101.org)
 - Learn about Stanford University's [Living Textbook Intiative](https://digitaleducation.stanford.edu/news/living-textbooks-help-envision-era-educational-abundance)
 <br>
 
