@@ -77,6 +77,7 @@ Administer a classroom, assign and review work from your students, and teach the
 - [Learn with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom)
 - [View Autograding Results](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results)
 - [View Deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
+- NEW! [Educators & GitHub Classroom FAQs 🍎🧑‍🏫](https://github.com/orgs/community/discussions/145312)
 <br>
 
 
