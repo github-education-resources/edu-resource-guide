@@ -93,12 +93,25 @@ Administer a classroom, assign and review work from your students, and teach the
 - [Not-ternships](https://www.twitch.tv/videos/2138897966)
 - [Managing your profile ReadMe](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - [How to Create a GitHub Profile READ ME](https://youtu.be/ktN5tDfQ_g8?feature=shared)
+- [Find your Career Roadmap](https://roadmap.sh/)- pick a focus to see what your educational path could involve!  
 <br>
 
 
 ## Campus Experts
 - [About the Campus Experts program](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/about-github-campus-experts)
-- Become or find a [Campus Expert](https://education.github.com/experts) 
+- Become a [Campus Expert](https://education.github.com/experts)
+- Connect with the [Campus Expert Community](https://githubcampus.expert/)
+<br>
+
+
+## Researchers
+- [Learn how to connect your ORCiD to your GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#a[…]e)
+- [Customize your repository with citation files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+- [Issuing a persistent identifier for your repository with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+- Add your research institution to [The Research Organization Registry (ROR)](https://ror.org/)
+- [Handbook on Ethical Open Science](https://book.the-turing-way.org/index.html)
+- [NASA TOPS training on Open science](https://app.openscience101.org)
+- Learn about Stanford University's [Living Textbook Intiative](https://digitaleducation.stanford.edu/news/living-textbooks-help-envision-era-educational-abundance)
 <br>
 
 
