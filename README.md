@@ -20,7 +20,7 @@ Teachers, students, and researchers can use tools from GitHub to learn, enrich s
 ## 📚 GitHub Education Programs
 | 👩🏽‍🏫 Teacher Benefits | 🎒 Student Benefits | 🏫 School Benefits |
 | ------------- | ------------- | ------------- |
-| [Apply for Teacher Benefits](https://education.github.com/discount_requests/application) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/discount_requests/application) ||
+| [Apply for Teacher Benefits](https://github.com/settings/education/benefits)) | [Apply for the Student Developer Pack](https://education.github.com/pack/join)  | [Apply to be a Partner School](https://education.github.com/discount_requests/application) ||
 <br>
 *Please note you will need to be logged into your GitHub account to view the Benefits Application
 
