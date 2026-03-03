@@ -185,6 +185,3 @@ Incorporate GitHub into your education, and use the same tools as the profession
 - [Education Support](https://support.github.com/request?tags=education-support) - For General & Educators/Students - submit a ticket
 - [Campus Program Support](https://support.github.com/contact/campus-program) - For Schools - submit a ticket
 <br>
-
-## Contribute
-We endeavor to keep these links up-to-date, but don't hesitate to let us know if you find something great we should add, or notice something that needs updating. Before you contribute by opening a pull request, please read this project's [contribution guidelines](https://github.com/education/edu-resource-guide/blob/main/docs/CONTRIBUTING.md).
