@@ -1,5 +1,55 @@
 # Fact Sheet: Architecting a GitHub Enterprise Cloud Instance for Schools Using the Campus Program
 
+---
+
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Important Campus Program Limitations](#important-campus-program-limitations)
+- [Recommended Architecture at a Glance](#recommended-architecture-at-a-glance)
+- [Key Design Principles](#key-design-principles)
+- [Identity and Access Management](#identity-and-access-management)
+- [SAML: Enterprise-Level vs Organization-Level](#saml-enterprise-level-vs-organization-level)
+- [Repository Visibility Guidance](#repository-visibility-guidance)
+- [Suggested Organization Patterns](#suggested-organization-patterns)
+- [Innersource and Reuse](#innersource-and-reuse)
+- [External Collaborators and Guests](#external-collaborators-and-guests)
+- [Individual Product Entitlement Limitations](#individual-product-entitlement-limitations)
+- [Copilot Considerations](#copilot-considerations)
+- [Actions and Codespaces Considerations](#actions-and-codespaces-considerations)
+- [Data Residency Considerations](#data-residency-considerations)
+- [Security, Compliance, and Support Limitations](#security-compliance-and-support-limitations)
+- [Recommended Policy Defaults](#recommended-policy-defaults)
+- [Adoption Checklist](#adoption-checklist)
+- [Example Governance Model](#example-governance-model)
+- [Suggested Naming Conventions](#suggested-naming-conventions)
+- [Quick Recommendations](#quick-recommendations)
+- [Bottom Line](#bottom-line)
+- [Reference Links](#reference-links)
+- [Important Campus Program Limitations](#important-campus-program-limitations)
+- [Recommended Architecture at a Glance](#recommended-architecture-at-a-glance)
+- [Key Design Principles](#key-design-principles)
+- [Identity and Access Management](#identity-and-access-management)
+- [SAML: Enterprise-Level vs Organization-Level](#saml-enterprise-level-vs-organization-level)
+- [Repository Visibility Guidance](#repository-visibility-guidance)
+- [Suggested Organization Patterns](#suggested-organization-patterns)
+- [Innersource and Reuse](#innersource-and-reuse)
+- [External Collaborators and Guests](#external-collaborators-and-guests)
+- [Individual Product Entitlement Limitations](#individual-product-entitlement-limitations)
+- [Copilot Considerations](#copilot-considerations)
+- [Actions and Codespaces Considerations](#actions-and-codespaces-considerations)
+- [Data Residency Considerations](#data-residency-considerations)
+- [Security, Compliance, and Support Limitations](#security-compliance-and-support-limitations)
+- [Recommended Policy Defaults](#recommended-policy-defaults)
+- [Adoption Checklist](#adoption-checklist)
+- [Example Governance Model](#example-governance-model)
+- [Suggested Naming Conventions](#suggested-naming-conventions)
+- [Quick Recommendations](#quick-recommendations)
+- [Bottom Line](#bottom-line)
+- [Reference Links](#reference-links)
+
+---
+
 ## Purpose
 
 The Campus Program gives schools and educational institutions access to a free, self-served GitHub Enterprise Cloud enterprise plan. A well-designed enterprise architecture helps institutions centralize governance, simplify access management, support teaching and research, and give students, faculty, and staff a consistent developer experience.
