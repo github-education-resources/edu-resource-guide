@@ -44,7 +44,6 @@ Administer a classroom, assign and review work from your students, and teach the
 
 ## 🔦 Spotlighted Video Tutorials
 - [GitHub Education YouTube Channel](https://www.youtube.com/@githubeducation4427/videos) - all videos
-- [GitHub Classroom](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) - Getting Started Guide
 - [What is Git?](https://www.youtube.com/@githubeducation4427/videos) - A brief introduction to Git for beginners by GitHub
 <br> 
 
@@ -82,7 +81,8 @@ Administer a classroom, assign and review work from your students, and teach the
 - [Learn with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom)
 - [View Autograding Results](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results)
 - [View an assignment deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
-- [Educators & GitHub Classroom FAQs 🍎🧑‍🏫](https://github.com/orgs/community/discussions/145312) 
+- [Educators & GitHub Classroom FAQs 🍎🧑‍🏫](https://github.com/orgs/community/discussions/145312)
+- [GitHub Classroom](https://www.youtube.com/playlist?list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) - Getting Started Guide
 
 </details>
 
