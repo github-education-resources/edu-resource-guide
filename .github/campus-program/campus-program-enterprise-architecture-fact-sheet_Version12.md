@@ -4,7 +4,7 @@
 
 The Campus Program gives schools and educational institutions access to a free, self-served GitHub Enterprise Cloud enterprise plan. A well-designed enterprise architecture helps institutions centralize governance, simplify access management, support teaching and research, and give students, faculty, and staff a consistent developer experience.
 
-GitHub Enterprise Cloud provides an **enterprise account**, which acts as the central place to manage multiple organizations, policies, members, teams, audit activity, and access controls.
+GitHub Enterprise Cloud provides an **enterprise account**, which serves as the central hub for managing organizations, policies, users, teams, audit activity, and access controls.
 
 This fact sheet is intended for schools, universities, colleges, districts, research institutions, and educational organizations that are adopting the Campus Program and need guidance on how to structure their enterprise instance.
 
@@ -19,16 +19,16 @@ Schools should design their enterprise architecture with the following limitatio
 
 | Area | Campus Program limitation | Architectural impact |
 |---|---|---|
-| **Enterprise Managed Users** | Enterprise Managed Users, or EMU, are **not available** through the Campus Program. | Schools should plan to use personal GitHub.com accounts with SAML-based authentication rather than institution-provisioned managed user accounts. |
-| **Data residency** | GitHub Enterprise Cloud with data residency is **not available** through the Campus Program. | Schools should not design the environment around GHE.com regional hosting or data residency controls. |
-| **GitHub Copilot Business** | GitHub Copilot Business is **not included** in the Campus Program enterprise plan. | Copilot adoption, licensing, governance, and rollout should be planned separately from the Campus Program enterprise. |
-| **Individual Copilot access** | The Campus Program does **not** automatically grant individual Copilot licenses to students, staff, or faculty. | Users must bring their own Copilot access, or the school must separately fund and assign licenses. |
-| **GitHub Actions** | The Campus Program does **not** automatically grant expanded paid Actions usage. | Schools should plan Actions usage around included allowances, user-owned entitlements, or separately funded metered billing. |
-| **GitHub Codespaces** | The Campus Program does **not** automatically grant paid Codespaces usage. | Schools should decide whether users bring their own access or whether the institution will fund Codespaces with budgets and payment limits. |
-| **GitHub Advanced Security / paid security products** | Paid security products, including GitHub Advanced Security capabilities, are **not included** as part of the Campus Program enterprise plan. | Schools should not assume access to paid code security, secret protection, or enterprise-wide Advanced Security licensing unless separately purchased or otherwise provided. |
-| **Premium Support** | GitHub Premium Support is **not included**. | Schools should plan for standard available support paths and self-service administration rather than premium support SLAs, incident management, or named support resources. |
+| **Enterprise Managed Users** | Enterprise Managed Users (EMU) are **not available** through the Campus Program. | Schools should plan to use personal GitHub accounts with SAML-based authentication rather than institution-provisioned managed user accounts. |
+| **Data residency** | The Campus Program does **not** include GitHub Enterprise Cloud with data residency. | Schools should not design the environment around GHE.com regional hosting or data residency controls. |
+| **GitHub Copilot Business** | The Campus Program does **not** include GitHub Copilot Business. | Copilot adoption, licensing, governance, and rollout should be addressed as a separate initiative from the Campus Program enterprise. |
+| **Individual Copilot access** | The Campus Program does **not** include individual Copilot licenses for students, staff, or faculty. | Users must bring their own Copilot access, or the school must separately fund and assign licenses. |
+| **GitHub Actions** | The Campus Program does **not** include expanded paid GitHub Actions usage. | Schools should plan Actions usage around included allowances, user-owned entitlements, or separately funded metered billing. |
+| **GitHub Codespaces** | The Campus Program does **not** include paid Codespaces usage. | Schools should decide whether users bring their own access or whether the institution will fund Codespaces with budgets and payment limits. |
+| **GitHub Advanced Security / paid security products** | The Campus Program does **not** include paid security products, including GitHub Advanced Security capabilities. | Schools should not assume access to paid code security, secret protection, or enterprise-wide Advanced Security licensing unless separately purchased or otherwise provided. |
+| **Premium Support** | The Campus Program does **not** include GitHub Premium Support. | Schools should plan for standard available support paths and self-service administration rather than premium support SLAs, incident management, or named support resources. |
 | **Security documentation** | Because no NDA is required for the Campus Program, only publicly available security documentation, such as SOC 2 documentation, should be expected. | Schools should plan security reviews around public documentation and the GitHub Trust Center rather than NDA-gated documentation packages. |
-| **Add-on metered products** | Metered or licensed products must be purchased, enabled, or funded separately. | Schools can work with GitHub Sales and add a payment instrument, such as a credit card or eligible Azure Subscription ID, to support paid usage. |
+| **Add-on metered products** | Metered or licensed products must be purchased, enabled, or funded separately. | Schools can work with GitHub Sales and add a payment method, such as a credit card or eligible Azure Subscription ID, to support paid usage. |
 
 GitHub documentation for GitHub Enterprise Cloud may describe features that are available in paid or separately contracted GitHub Enterprise offerings. For Campus Program institutions, the limitations above should be treated as program-specific constraints when designing the enterprise.
 
@@ -62,7 +62,7 @@ GitHub Enterprise Account
     └── Limited membership and stronger repository rules
 ```
 
-Start with a **small number of organizations** and expand only when there is a clear governance, access, or collaboration reason. It is usually easier to add organizations later than to remove or consolidate them.
+Start with a **small number of organizations** and expand only when there is a clear governance, access, or collaboration need. It is usually easier to add organizations later than to remove or consolidate them.
 
 ---
 
@@ -95,7 +95,7 @@ Organizations should usually represent a major administrative or governance boun
 
 Avoid creating a new organization for every course, semester, lab, student group, or department unless they require distinct policies, owners, or access boundaries.
 
-Organizations are best used to group related work or repositories with similar governance, security, or access requirements.
+Organizations are best used to group repositories with similar governance, security, or access requirements.
 
 ---
 
@@ -119,14 +119,14 @@ Where possible, align teams with identity provider groups or institutional roles
 
 ## Identity and Access Management
 
-Schools using the Campus Program should plan around **personal GitHub.com accounts with SAML-based authentication**.
+Schools using the Campus Program should plan around **personal GitHub accounts with SAML-based authentication**.
 
 > [!WARNING]
 > Enterprise Managed Users are **not available** through the Campus Program. Do not design the enterprise architecture around institution-provisioned managed user accounts, EMU namespaces, SCIM-provisioned managed users, or GHE.com data-residency environments.
 
 ### Recommended model: Personal accounts with SAML
 
-Users sign in with their personal GitHub.com accounts, and the institution can apply SAML-based access controls.
+Users sign in with their personal GitHub accounts, and the institution can apply SAML-based access controls.
 
 This model works well for schools because students, faculty, researchers, and staff often need to participate in the broader GitHub.com ecosystem, including:
 
@@ -147,9 +147,9 @@ Use this model when:
 
 Recommended practices:
 
-- Configure SAML single sign-on where available
-- Use teams for authorization and repository access
-- Use identity provider groups where supported
+- Configure SAML single sign-on (SSO)
+- Use teams for authorization and access management
+- Align with identity provider groups where possible
 - Document onboarding and offboarding processes
 - Avoid granting broad organization ownership to students or temporary users
 - Review organization membership regularly
@@ -281,7 +281,7 @@ Example repository naming patterns:
 
 ### Institutional IT organization
 
-Use for central IT, DevOps, platform engineering, and institutional automation.
+Use this for central IT, DevOps, platform engineering, and institutional automation.
 
 Recommended repositories:
 
@@ -436,14 +436,14 @@ Recommended approach:
 - Remove access promptly when collaborations end
 - Avoid granting external collaborators administrative privileges unless required
 
-Because Enterprise Managed Users are not available through the Campus Program, schools should design guest and collaborator workflows around personal GitHub.com accounts.
+Because Enterprise Managed Users are not available through the Campus Program, schools should design guest and collaborator workflows around personal GitHub accounts.
 
 ---
 
 ## Individual Product Entitlement Limitations
 
 > [!WARNING]
-> The Campus Program enterprise plan does **not** automatically confer individual access to GitHub Copilot, GitHub Actions, or GitHub Codespaces.
+> The Campus Program enterprise plan does **not** include automatic access to individual access to GitHub Copilot, GitHub Actions, or GitHub Codespaces.
 
 The Campus Program provides the school with access to a free, self-served enterprise plan, but individual user access to separately metered or licensed products must be planned separately.
 
@@ -503,12 +503,12 @@ Recommended practices:
 
 ### Option 3: Purchase add-on metered products with GitHub Sales
 
-The school can work with a GitHub Sales team member to purchase or enable add-on metered products by adding a payment instrument.
+The school can work with a GitHub Sales team member to purchase or enable add-on metered products by adding a payment method.
 
 Supported payment approaches may include:
 
 - Credit card
-- Azure Subscription ID
+- Azure subscription ID
 
 This may be appropriate when:
 
@@ -539,7 +539,7 @@ Potential add-on or separately funded products may include:
 
 Schools should treat Copilot as a separate adoption, licensing, and governance decision.
 
-Do not assume the Campus Program enterprise includes:
+The Campus Program enterprise does not include:
 
 - Copilot Business licensing
 - Individual Copilot licenses for students
@@ -579,7 +579,7 @@ Possible Copilot adoption models:
 > [!WARNING]
 > The Campus Program does **not** automatically provide expanded paid GitHub Actions or GitHub Codespaces usage.
 
-Schools should plan Actions and Codespaces usage separately from the enterprise architecture.
+Schools should treat Actions and Codespaces usage as separate from the enterprise architecture.
 
 ### GitHub Actions
 
@@ -752,7 +752,7 @@ Recommended practices:
 | Organization creation | Centralize or require approval |
 | Repository ownership | Prefer organization-owned repositories |
 | User access | Manage through teams, not individuals |
-| Identity model | Use personal GitHub.com accounts with SAML-based authentication |
+| Identity model | Use personal GitHub accounts with SAML-based authentication |
 | Enterprise Managed Users | Do not design around EMU; it is not available through the Campus Program |
 | SAML | Prefer enterprise-level SAML for consistency |
 | Repository visibility | Private by default for teaching and sensitive work; internal for reusable institutional work |
@@ -782,7 +782,7 @@ Recommended practices:
   - Regulated or sensitive work
 - Confirm Campus Program limitations with stakeholders
 - Choose the identity model:
-  - Personal GitHub.com accounts with SAML-based authentication
+  - Personal GitHub accounts with SAML-based authentication
 - Confirm that Enterprise Managed Users are not part of the architecture
 - Confirm that data residency is not part of the Campus Program architecture
 - Define initial organizations
@@ -909,7 +909,7 @@ Examples:
 
 5. **Use private visibility for coursework, student work, sensitive research, and institutional systems.**
 
-6. **Choose the identity architecture early.** For the Campus Program, plan around personal GitHub.com accounts with SAML-based authentication.
+6. **Choose the identity architecture early.** For the Campus Program, plan around personal GitHub accounts with SAML-based authentication.
 
 7. **Do not design around Enterprise Managed Users.** EMU is not available through the Campus Program.
 
