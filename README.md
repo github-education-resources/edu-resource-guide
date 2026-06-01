@@ -178,6 +178,7 @@ Incorporate GitHub into your education, and use the same tools as the profession
 - [GitHub Education for Schools Partner Program Use Agreement](https://github.com/edu/schools/terms)
 - [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - [GitHub Security Policies](https://docs.github.com/en/site-policy/security-policies)
+- [GitHub Enterprise for Edu Archetecture Guide](https://github.com/github-education-resources/edu-resource-guide/blob/main/.github/campus-program/campus-program-enterprise-architecture-fact-sheet_Version12.md)
 <br>
 
 ## 🆘 Where to go for help
