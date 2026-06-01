@@ -48,8 +48,14 @@ Administer a classroom, assign and review work from your students, and teach the
 - [What is Git?](https://www.youtube.com/@githubeducation4427/videos) - A brief introduction to Git for beginners by GitHub
 <br> 
 
+## GitHub Classroom
 
-## All Things GitHub Classroom
+> [!IMPORTANT]
+> GitHub Classroom is transitioning to partner solutions. Read the [transition announcement](https://github.com/orgs/community/discussions/196615).
+
+<details>
+<summary><strong>GitHub Classroom Archive</strong></summary>
+
 - [Teach with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
 - [Getting Started](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom)
 - [GitHub Classroom Glossary](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/glossary)
@@ -63,21 +69,23 @@ Administer a classroom, assign and review work from your students, and teach the
 - [Use Assignment Overview](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/monitor-students-progress-with-the-assignment-overview-page)
 - [Reuse an Assignment](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/reuse-an-assignment)
 - [Template Repository](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
-- [Pull Requests (leaving feedback)](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
+- [Pull Requests for feedback](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
 - [Use Autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
 - [Using GitHub Classroom with GitHub CLI](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/using-github-classroom-with-github-cli)
-- [Register an LMS / Connect a learning management system course to a classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/connect-a-learning-management-system-course-to-a-classroom)
-- [Connect an LMS Course](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/connect-a-learning-management-system-course-to-a-classroom)
+- [Connect a learning management system course to a classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/connect-a-learning-management-system-course-to-a-classroom)
 - [Integrate GitHub Classroom with an IDE](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/integrate-github-classroom-with-an-ide)
 - [Using Codespaces with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/using-github-codespaces-with-github-classroom)
 - [Using Visual Studio Code](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/about-using-visual-studio-code-with-github-classroom)
 - [Using MakeCode Arcade](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/about-using-makecode-arcade-with-github-classroom)
-- [Using Repl.It](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/replit-with-github-classroom)
-- [Run code in IDE](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/run-student-code-in-an-ide)
+- [Using Replit](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/replit-with-github-classroom)
+- [Run code in an IDE](https://docs.github.com/en/education/manage-coursework-with-github-classroom/integrate-github-classroom-with-an-ide/run-student-code-in-an-ide)
 - [Learn with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom)
 - [View Autograding Results](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/view-autograding-results)
-- [View Deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
-- NEW! [Educators & GitHub Classroom FAQs 🍎🧑‍🏫](https://github.com/orgs/community/discussions/145312)
+- [View an assignment deadline](https://docs.github.com/en/education/manage-coursework-with-github-classroom/learn-with-github-classroom/viewing-your-assignments-deadline)
+- [Educators & GitHub Classroom FAQs 🍎🧑‍🏫](https://github.com/orgs/community/discussions/145312) 
+
+</details>
+
 <br>
 
 
