@@ -52,7 +52,7 @@
 
 ## Purpose
 
-The Campus Program gives schools and educational institutions access to a free, self-served GitHub Enterprise Cloud enterprise plan. A well-designed enterprise architecture helps institutions centralize governance, simplify access management, support teaching and research, and give students, faculty, and staff a consistent developer experience.
+The Campus Program gives schools and educational institutions access to a free, self-served GitHub Enterprise Cloud enterprise plan. A well-designed enterprise architecture helps institutions centralize governance, simplify access management, support teaching and research, and gives students, faculty, and staff a consistent developer experience.
 
 GitHub Enterprise Cloud provides an **enterprise account**, which serves as the central hub for managing organizations, policies, users, teams, audit activity, and access controls.
 
